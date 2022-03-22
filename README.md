@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Thank you for visiting my Github page.
-I'm Jens, a Fullstack developer from  Elburg, The Netherlands🇳🇱  I am the co-founder and owner of [Beter Bekend](https://www.beterbekend.nl). An awesome web development and e-commerce agency based in Elburg, The Netherlands. At the moment I am also working at my [developer portfolio](https://www.jvw.dev). 
+I'm Jens, a Fullstack developer from  Elburg, The Netherlands🇳🇱  I am the co-founder and owner of [Beter Bekend](https://www.beterbekend.nl). An awesome web development and e-commerce agency based in Elburg, The Netherlands. At the moment I am also working on [Bergfanaten](https://www.bergfanaten.nl). 
 
 ### Use my link in bio service for free
 You can find all my links on [Grrp.me](https://www.grrp.me), a link in bio service built by me. With Grrp you can easily create a custom landingpage that contains all your links. Get startet for free on [Grrp.me](https://www.grrp.me)
