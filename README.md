@@ -14,5 +14,5 @@ Another huge passion of mine is hiking. Last year I [hiked the E5 through the Al
 Lately I have been filming some of my hikes. Feel free to check out my [Youtube Channel](https://www.youtube.com/channel/UCuqx6IneZ6jm0_1V-YkpSDQ)
 
 
-- 🔭  I’m currently working on Vuejs, Svelte, Storyblok, Mongodb and Aws Amplify
+- 🔭  My current tech stack contains Laravel, NextJS, Vuejs, Svelte, Storyblok, Mongodb and Aws Amplify
 - 📫  How to reach me: Feel free to tweet me [@jensvanwijhe](https://twitter.com/jensvanwijhe)
