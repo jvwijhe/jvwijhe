@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-Thank you for visiting my Github page.
-I'm Jens, a Fullstack developer from  Elburg, The Netherlands🇳🇱  I am the co-founder and owner of [Beter Bekend](https://www.beterbekend.nl). An awesome web development and e-commerce agency based in Elburg, The Netherlands. At the moment I am also working on [Bergfanaten](https://www.bergfanaten.nl). 
-
-### Use my link in bio service for free
-You can find all my links on [Grrp.me](https://www.grrp.me), a link in bio service built by me. With Grrp you can easily create a custom landingpage that contains all your links. Get startet for free on [Grrp.me](https://www.grrp.me)
-
+I'm Jens, a entrepreneur and fullstack developer from  Elburg, The Netherlands🇳🇱  I am the co-founder and owner of [Beter Bekend](https://www.beterbekend.nl). An awesome [web development](https://www.beterbekend.nl/diensten/development/web-development) and [e-commerce agency](https://www.beterbekend.nl/diensten/development/e-commerce) based in Elburg, The Netherlands. 
 
 
 ### Join me on a hike
@@ -14,5 +9,5 @@ Another huge passion of mine is hiking. Last year I [hiked the E5 through the Al
 Lately I have been filming some of my hikes. Feel free to check out my [Youtube Channel](https://www.youtube.com/channel/UCuqx6IneZ6jm0_1V-YkpSDQ)
 
 
-- 🔭  My current tech stack contains Laravel, NextJS, Vuejs, Svelte, Storyblok, Mongodb and Aws Amplify
+- 🔭  My current tech stack contains Laravel, Svelte, Storyblok and Mongodb  
 - 📫  How to reach me: Feel free to tweet me [@jensvanwijhe](https://twitter.com/jensvanwijhe)
