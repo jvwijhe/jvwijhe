@@ -10,9 +10,9 @@ Lately I have been filming some of my hikes. Feel free to check out my [Youtube 
 
 
 ### Links
-[Beter Bekend - Digital agency](https://www.beterbekend.nl)
-[Jens van Wijhe](https://www.jvw.dev)
-[Bergfanaten](https://www.bergfanaten.nl)
+- [Beter Bekend - Digital agency](https://www.beterbekend.nl)
+- [Jens van Wijhe](https://www.jvw.dev)
+- [Bergfanaten](https://www.bergfanaten.nl)
 
 
 
